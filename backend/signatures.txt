@@ -1,0 +1,13 @@
+# Packer signatures for peutils
+UPX     UPX!
+UPX     UPX0
+UPX     UPX1
+UPX     This file is packed with the UPX executable packer
+ASPack  ASPack
+ASPack  Alexey Solodovnikov
+Themida Themida
+Themida \.t[uU][cC][aA]  # .tuca pattern
+VMProtect VMProtect
+VMProtect Virtualize
+FSG     FSG!
+FSG     Fast Good
